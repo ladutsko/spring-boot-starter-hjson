@@ -1,0 +1,4 @@
+# hash style comments
+test: {
+  foo: 42
+}
